@@ -4,11 +4,11 @@ from config import MONGO_DB_URI
 
 from ..logging import LOGGER
 
-LOGGER("ميــوزك ايرور").info("جـارِ الاتصـال بقاعـدة البيانـات . . .")
+LOGGER("ميــوزك ميدو").info("جـارِ الاتصـال بقاعـدة البيانـات . . .")
 try:
     _mongo_async_ = AsyncIOMotorClient(MONGO_DB_URI)
     mongodb = _mongo_async_.Anon
-    LOGGER("ميــوزك ايرور").info("تم الاتصـال بقاعـدة البيانـات ...✓")
+    LOGGER("ميــوزك ميدو").info("تم الاتصـال بقاعـدة البيانـات ...✓")
 except:
     LOGGER(__name__).error("حدث خطأ اثناء الاتصال بقاعدة البيانات.")
     exit()
