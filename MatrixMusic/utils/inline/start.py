@@ -9,7 +9,7 @@ def start_panel(_):
             InlineKeyboardButton(
                 text="خدني لجروبك ونبي🥺💕", url=f"https://t.me/{app.username}?startgroup=true"
             ),
-            InlineKeyboardButton(text="جـروب الـدعـم 🌿 ", url= "https://t.me/SOPER_EROR"),
+            InlineKeyboardButton(text="جـروب الـدعـم 🌿 ", url= "https://t.me/U7_4K"),
         ],
     ]
     return buttons
@@ -25,8 +25,8 @@ def private_panel(_):
         ],
         
         [
-            InlineKeyboardButton(text="مـطـور الـسـورس 🌿 ", url= "https://t.me/Y_D_ll"),
-            InlineKeyboardButton(text="جـروب الـدعـم 🌿 ", url=f"https://t.me/SOPER_EROR"), 
+            InlineKeyboardButton(text="مـطـور الـسـورس 🌿 ", url= "https://t.me/ox_Q1"),
+            InlineKeyboardButton(text="جـروب الـدعـم 🌿 ", url=f"https://t.me/U7_4K"), 
         ],
         [
             
