@@ -115,7 +115,7 @@ class Userbot(Client):
             await self.four.start()
             try:
                 await self.one.join_chat("UJ_5Q")
-                await self.one.join_chat("UJ_5Q
+                await self.one.join_chat("UJ_5Q") 
                 pass
             assistants.append(4)
             try:
