@@ -1,6 +1,6 @@
-#𝙲𝙷.𝚂𝙾𝚄𝚁𝙲𝙴 : @UJ_5Q
-#𝙳𝙴𝚅 𝙼𝙰𝚉𝙴𝙽 : @ox_Q1
-#𝚂𝚄𝙿𝙿𝙾𝚁𝚃 : @U7_4K
+#𝙲𝙷.𝚂𝙾𝚄𝚁𝙲𝙴 : @SOURCE_EROR
+#𝙳𝙴𝚅 𝙼𝙰𝚉𝙴𝙽 : @Y_D_ll
+#𝚂𝚄𝙿𝙿𝙾𝚁𝚃 : @SOPER_EROR
 #MOHAMED تم التعديل بواسطة 🎸 ⋅
 
 import asyncio
@@ -46,8 +46,3 @@ async def zdatsr(client: Client, message: Message):
         ),
     )
       
-#𝙲𝙷.𝚂𝙾𝚄𝚁𝙲𝙴 : @UJ_5Q
-#𝙳𝙴𝚅 𝙼𝙰𝚉𝙴𝙽 : @ox_Q1
-#𝚂𝚄𝙿𝙿𝙾𝚁𝚃 : @U7_4K
-#MOHAMED تم التعديل بواسطة 🎸 ⋅
-
