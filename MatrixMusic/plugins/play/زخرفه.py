@@ -10,7 +10,7 @@ from pyrogram.types import Message
 async def zahrafa(c: Client, m: Message):
     text_list = m.text.split(None, 1)
     if len(text_list) < 2:
-        await m.reply_text("◍ قم بكتابة ما تريد زخرفته\n\nاكتبها بهذه الطريقة : `زخرفه ميدو` √", reply_to_message_id=m.id)
+        await m.reply_text("◍ قم بكتابة ما تريد زخرفته\n\nاكتبها بهذه الطريقة : `زخرفه ايرور` √", reply_to_message_id=m.id)
         return
     text = text_list[1].split(None, 1)[1] if len(text_list[1].split()) > 1 else text_list[1]
     if len(text) > 20:
