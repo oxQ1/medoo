@@ -1,6 +1,6 @@
-#𝙲𝙷.𝚂𝙾𝚄𝚁𝙲𝙴 : @UJ_5Q
-#𝙳𝙴𝚅 𝙼𝙰𝚉𝙴𝙽 : @ox_Q1
-#𝚂𝚄𝙿𝙿𝙾𝚁𝚃 : @U7_4K
+#𝙲𝙷.𝚂𝙾𝚄𝚁𝙲𝙴 : @SOURCE_EROR
+#𝙳𝙴𝚅 𝙼𝙰𝚉𝙴𝙽 : @Y_D_ll
+#𝚂𝚄𝙿𝙿𝙾𝚁𝚃 : @SOPER_EROR
 #MOHAMED تم التعديل بواسطة 🎸 ⋅
 from pyrogram.types import CallbackQuery
 import asyncio
@@ -57,8 +57,8 @@ async def huhh(client: Client, message: Message):
 @app.on_message(filters.command(["محمد","مطور السورس"], ""), group=221212)
 async def huhh(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/cec3ed930abf838dca18f.jpg",
-        caption=f"""• ⌯ Developer Name : ˛ 𝙴𝚁𝙾𝚁 ⌯ •\n- Devloper Username : @ox_Q1 Devloper id : 6092147148 ⋅""",
+        photo=f"https://telegra.ph/file/b56c2f4ff37d1f22dd38a.jpg",
+        caption=f"""• ⌯ Developer Name : ˛ 𝙴𝚁𝙾𝚁 ⌯ •\n- Devloper Username : @ox_Q1 Devloper id : 6657364168""",
         reply_markup=InlineKeyboardMarkup(
         [
             [
@@ -66,7 +66,7 @@ async def huhh(client: Client, message: Message):
                         " ‹ قناة السورس 💘 ⋅ › ", url=f"https://t.me/UJ_5Q"),
                 ],[
                     InlineKeyboardButton(
-                        "𓄼⦁ 𝗲𝗿𝗼𝗿 ⦁𓄹", url=f"https://t.me/ox_Q1"), 
+                        "𓄼⦁ 𝐌𝐄𝐃𝐎 ⦁𓄹", url=f"https://t.me/ox_Q1"), 
                 ],[
                     InlineKeyboardButton(
                         "‹ اضف بوت السورس الي مجموعتك ⚡️🎸 ⋅ ›", url=f"http://t.me/V_E_PBot?startgroup=new"),
@@ -88,7 +88,7 @@ async def vgdg(client: Client, message: Message):
   
 
 
-#𝙲𝙷.𝚂𝙾𝚄𝚁𝙲𝙴 : @UJ_5Q
-#𝙳𝙴𝚅 𝙼𝙰𝚉𝙴𝙽 : @ox_Q1
-#𝚂𝚄𝙿𝙿𝙾𝚁𝚃 : @U7_4K
+#𝙲𝙷.𝚂𝙾𝚄𝚁𝙲𝙴 : @SOURCE_EROR
+#𝙳𝙴𝚅 𝙼𝙰𝚉𝙴𝙽 : @Y_D_ll
+#𝚂𝚄𝙿𝙿𝙾𝚁𝚃 : @SOPER_EROR
 #MOHAMED تم التعديل بواسطة 🎸 ⋅    

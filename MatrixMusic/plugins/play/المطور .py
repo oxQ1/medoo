@@ -108,7 +108,7 @@ async def khfzss(client: Client, message: Message):
 
     async for photo in client.get_chat_photos(OWNER_ID, limit=1):
 
-                    await message.reply_photo(photo.file_id,       caption=f"""مـعـلـومـات مـطـور الـبـوت 🌿  \n\n⌔︙𝐍𝐚𝐦𝐞: {name} \n\n⌔︙𝐔𝐬𝐢𝐫: @{username} \n\n⌔︙𝐢𝐝: {id} \n\n⌔︙𝐁𝐢𝐨: {bio} \n\n⌔︙𝐒𝐎𝐔𝐑𝐂𝐄 𝐌𝐄𝐃𝐎""", 
+                    await message.reply_photo(photo.file_id,       caption=f"""مـعـلـومـات مـطـور الـبـوت 🌿  \n\n⌔︙𝐍𝐚𝐦𝐞: {name} \n\n⌔︙𝐔𝐬𝐢𝐫: @{username} \n\n⌔︙𝐢𝐝: {id} \n\n⌔︙𝐁𝐢𝐨: {bio} \n\n⌔︙𝐒𝐎𝐔𝐑𝐂𝐄 𝐄𝐑𝐎𝐑""", 
 
         reply_markup=InlineKeyboardMarkup(
 
